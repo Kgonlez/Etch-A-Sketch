@@ -1,2 +1,2 @@
 # Etch-A-Sketch
-Etch-a-sketch repository
+This is my attempt to TOP's Etch-A-skecth foundations project
